@@ -7,6 +7,7 @@
 - [qt-material](https://github.com/UN-GCPDS/qt-material), look at https://github.com/UN-GCPDS/qt-material/issues/28 and https://github.com/UN-GCPDS/qt-material/issues/25
 - [BreezeStyleSheets](https://github.com/Alexhuszagh/BreezeStyleSheets)
 - [SARibbon](https://github.com/czyt1988/SARibbon), also QStyles
+- [ QtFluentDesign](https://github.com/githubuser0xFFFF/QtFluentDesign)
 ## Theme is a part of monorepo
 - [mumble-theme](https://github.com/mumble-voip/mumble-theme), moved to monorepo https://github.com/mumble-voip/mumble/tree/master/themes/Default
 - [FreeCAD-qss](https://github.com/FreeCAD/FreeCAD/tree/master/src/Gui/Stylesheets) - FreeCad stylesheets, can be used separately

@@ -23,3 +23,6 @@
 - [napari-qss](https://github.com/napari/napari/tree/main/napari/_qt/qt_resources/styles)
 - [liteide-qss](https://github.com/visualfc/liteide/tree/master/liteidex/deploy/liteapp/qss)
 - [QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo/tree/master/ui)
+
+## web site
+- [Qt Style Sheets Templates](https://qss-stock.devsecstudio.com)

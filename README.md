@@ -13,6 +13,7 @@
 - [QGoodWindow](https://github.com/antonypro/QGoodWindow)
 - [Qt-Frameless-Window-DarkStyle](https://github.com/Jorgen-VikingGod/Qt-Frameless-Window-DarkStyle)
 - [TTKWidget](https://github.com/Greedysky/TTKWidgetTools)
+- [FancyUI](https://github.com/COLORREF/QWidget-FancyUI)
 ## Theme is a part of monorepo
 - [mumble-theme](https://github.com/mumble-voip/mumble-theme), moved to monorepo https://github.com/mumble-voip/mumble/tree/master/themes/Default
 - [FreeCAD-qss](https://github.com/FreeCAD/FreeCAD/tree/master/src/Gui/Stylesheets) - FreeCad stylesheets, can be used separately

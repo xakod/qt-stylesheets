@@ -26,3 +26,5 @@
 - [liteide-qss](https://github.com/visualfc/liteide/tree/master/liteidex/deploy/liteapp/qss)
 - [QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo/tree/master/ui)
 - [ModOrganizer2](https://github.com/ModOrganizer2/modorganizer/tree/master/src/stylesheets)
+- [qBitTorrent-fluent-theme-qss](https://github.com/witalihirsch/qBitTorrent-fluent-theme/tree/main/Builds/fluent-theme)
+- [qBitTorrent-catppuccin-qss](https://github.com/catppuccin/qbittorrent/tree/main/src)
